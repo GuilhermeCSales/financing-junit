@@ -34,25 +34,25 @@ Já este exemplo é VÁLIDO porque a entrada seria 20000 e a prestação seria 1
 
 ### Testes para Implementar
 #### Construtor
-- [ ] Deve criar o objeto com os dados corretos quando os dados forem válidos
-- [ ] Deve lançar IllegalArgumentException quando os dados não forem válidos
+- [X] Deve criar o objeto com os dados corretos quando os dados forem válidos
+- [X] Deve lançar IllegalArgumentException quando os dados não forem válidos
 
 #### setTotalAmount
-- [ ] Deve atualizar o valor quando os dados forem válidos
-- [ ] Deve lançar IllegalArgumentException quando os dados não forem válidos
+- [X] Deve atualizar o valor quando os dados forem válidos
+- [X] Deve lançar IllegalArgumentException quando os dados não forem válidos
 
 #### setIncome
-- [ ] Deve atualizar o valor quando os dados forem válidos
-- [ ] Deve lançar IllegalArgumentException quando os dados não forem válidos
+- [X] Deve atualizar o valor quando os dados forem válidos
+- [X] Deve lançar IllegalArgumentException quando os dados não forem válidos
 
 #### setMonths
-- [ ] Deve atualizar o valor quando os dados forem válidos
-- [ ] Deve lançar IllegalArgumentException quando os dados não forem válidos
+- [X] Deve atualizar o valor quando os dados forem válidos
+- [X] Deve lançar IllegalArgumentException quando os dados não forem válidos
 
 #### entry
-- [ ] Deve calcular corretamente o valor da entrada
+- [X] Deve calcular corretamente o valor da entrada
 
 #### quota
-- [ ] Deve calcular corretamente o valor da prestação
+- [X] Deve calcular corretamente o valor da prestação
 
 ***
